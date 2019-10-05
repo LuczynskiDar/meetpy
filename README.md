@@ -26,3 +26,4 @@ https://pykonik.slack.com/ or https://join-slack.pykonik.org/
    upstream`) (`provision-new-dev-envirionment.sh` adds `meetpy/meetpy` as `upstream`)
 4. Push your changes.
 5. Create a pull request to meetpy/meetpy, targeting master.
+6. Test
